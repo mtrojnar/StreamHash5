@@ -1,0 +1,8 @@
+*.o
+*.dat
+/tests/performance
+/tests/speed
+/tests/selftest
+/tests/prng
+/tests/streamhash5sum
+/priv
